@@ -9,6 +9,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 [Growing Tree Animation](https://codepen.io/aranja/pen/jbjxNZ?css-preprocessor=none)
 [Growing Leaves](https://gsap.com/community/forums/topic/19688-animation-grow-tree-branch-with-leaves/)
 [Tree growing with svg](https://codepen.io/Myau/pen/wbmmeK)
+[Growing text](https://codepen.io/mandymichael/details/YYaWop)
 
 ## Licentie
 
