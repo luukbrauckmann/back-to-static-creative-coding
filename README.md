@@ -11,6 +11,9 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 [Tree growing with svg](https://codepen.io/Myau/pen/wbmmeK)
 [Growing text](https://codepen.io/mandymichael/details/YYaWop)
 
+![Uploading IMG_3594.jpeg…]()
+
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
