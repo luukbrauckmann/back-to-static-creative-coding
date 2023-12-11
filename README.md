@@ -14,7 +14,6 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 - [Growing text](https://codepen.io/mandymichael/details/YYaWop)
 
 ## Ontwerpen
-![0E7A65E1-3DF3-4D7C-929C-78152481507C_1_102_o](https://github.com/luukbrauckmann/creative-coding/assets/47314813/ce8cbc50-303f-4f8c-bfd9-5a5571539c3c)
 
 ## Licentie
 
