@@ -16,7 +16,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 - [Tree growing with svg](https://codepen.io/Myau/pen/wbmmeK)
 - [Growing text](https://codepen.io/mandymichael/details/YYaWop)
 
-## Ontwerpen
+### Ontwerpen
 
 ![76DE4177-1CB6-4B16-99CF-FE079F00713F_1_102_o](https://github.com/luukbrauckmann/back-to-static-creative-coding/assets/47314813/f8503100-e32a-4974-b992-466e1b513d8e)
 
@@ -28,6 +28,10 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 - [Pinterest](https://nl.pinterest.com/search/pins/?q=acid%20graphic&rs=typed)
 - [Acid Techno](https://nl.pinterest.com/pin/585468020329076120/)
+
+### Ontwerpen
+
+***
 
 ## Licentie
 
