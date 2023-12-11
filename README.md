@@ -17,7 +17,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 ### Ontwerpen
 
-![76DE4177-1CB6-4B16-99CF-FE079F00713F_1_102_o](https://github.com/luukbrauckmann/back-to-static-creative-coding/assets/47314813/f8503100-e32a-4974-b992-466e1b513d8e)
+![76DE4177-1CB6-4B16-99CF-FE079F00713F](https://github.com/luukbrauckmann/back-to-static-creative-coding/assets/47314813/f8503100-e32a-4974-b992-466e1b513d8e)
 
 ## Spike 2
 
