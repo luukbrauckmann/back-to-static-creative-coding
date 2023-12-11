@@ -17,8 +17,6 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 ### Ontwerpen
 
-![76DE4177-1CB6-4B16-99CF-FE079F00713F_1_102_o](https://github.com/luukbrauckmann/back-to-static-creative-coding/assets/47314813/5f03f75e-24d9-4b98-90b0-803b7cc39fd6)
-
 ## Spike 2
 
 ![Concept Roulette · 2 25pm · 12-11](https://github.com/luukbrauckmann/back-to-static-creative-coding/assets/47314813/6028e72b-d3b1-4ddd-ab1d-b1c1c899ab46)
