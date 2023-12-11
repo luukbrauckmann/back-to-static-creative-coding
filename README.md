@@ -25,6 +25,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 ### Inspiratie
 
 - [Pinterest](https://nl.pinterest.com/search/pins/?q=acid%20graphic&rs=typed)
+- [Acid Techno](https://nl.pinterest.com/pin/585468020329076120/)
 
 ## Licentie
 
