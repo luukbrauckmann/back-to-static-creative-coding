@@ -32,7 +32,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 ### Ontwerpen
 
-
+![AA5F37A4-8BE7-4530-B5FD-96A668E3747B_1_102_o](https://github.com/luukbrauckmann/back-to-static-creative-coding/assets/47314813/ea31e591-6193-4cd0-b624-a35e1df75185)
 
 ## Licentie
 
