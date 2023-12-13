@@ -28,10 +28,11 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 - [Pinterest](https://nl.pinterest.com/search/pins/?q=acid%20graphic&rs=typed)
 - [Acid Techno](https://nl.pinterest.com/pin/585468020329076120/)
 - [Font](https://www.behance.net/gallery/172405413/THREADS-FREE-FONT-Y2K-FREE-ACID-GRAPHICS-BRUTALISM?tracking_source=search_projects&l=0)
+- [Grid background](https://codepen.io/jh3y/pen/poGqQbL)
 
 ### Ontwerpen
 
-***
+
 
 ## Licentie
 
