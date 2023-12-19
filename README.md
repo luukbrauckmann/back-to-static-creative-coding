@@ -45,6 +45,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 - [Background](https://nl.pinterest.com/pin/627337423118602753/)
 - [Triangle background](https://codepen.io/RedGlove/pen/pmOYqz)
 - [Abstract backgrounds](https://www.behance.net/gallery/161795145/Abstract-Backgrounds)
+- [Water effects](https://freefrontend.com/css-water-effects/)
 
 ### Ontwerpen
 
