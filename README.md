@@ -43,6 +43,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 - [Pinterest](https://nl.pinterest.com/search/pins/?q=abstract%20gradient&rs=typed)
 - [Background](https://nl.pinterest.com/pin/627337423118602753/)
+- [Triangle background](https://codepen.io/RedGlove/pen/pmOYqz)
 
 ### Ontwerpen
 
