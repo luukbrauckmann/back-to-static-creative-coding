@@ -35,6 +35,18 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 ![BE478DD1-0F61-4451-BCAD-DFB5724655C8_1_102_o](https://github.com/luukbrauckmann/back-to-static-creative-coding/assets/47314813/26e5483f-a066-43e8-bb26-484e3cce6f6a)
 
+## Spike 3
+
+![Concept Roulette · 4 31pm · 12-18](https://github.com/luukbrauckmann/back-to-static-creative-coding/assets/47314813/9397aa86-5d65-41e8-bac5-9e57dd8d64cf)
+
+### Inspiratie
+
+...
+
+### Ontwerpen
+
+...
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
