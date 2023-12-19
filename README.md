@@ -41,7 +41,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 ### Inspiratie
 
-...
+- [Pinterest](https://nl.pinterest.com/search/pins/?q=abstract%20gradient&rs=typed)
 
 ### Ontwerpen
 
